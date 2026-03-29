@@ -46,27 +46,9 @@ and incident investigation.
 
 ---
 
-## Custom Rules
-
-See [rules/local_rules.xml](rules/local_rules.xml)
-
-Three custom rules written to enhance detection coverage 
-with explicit MITRE ATT&CK mappings and adjusted severity levels.
-
----
-
-## Investigation Reports
-
-See the [investigations](investigations/) folder for 
-formal write-ups of each simulated incident including 
-timeline, evidence, analysis, and recommended response actions.
-
----
-
 ## Screenshots
 
-See the [screenshots](screenshots/) folder. All screenshots 
-are referenced and explained in the investigation reports.
+See the folder. All screenshots 
 
 ---
 
